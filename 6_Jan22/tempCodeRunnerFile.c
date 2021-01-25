@@ -1,0 +1,1 @@
+d is present at %d index." 
